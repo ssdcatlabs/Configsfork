@@ -222,6 +222,12 @@
             "event": "1st module of an orbital station",
             "who": "Untitled Aerospace Agency",
             "year": "2009"
+        },
+        {
+            "LaunchNumber": "38",
+            "event": "Researched Ion Engines",
+            "who": "Roshan Aerospace and Space Agency",
+            "year": "2009"
         }
     ]
 }
