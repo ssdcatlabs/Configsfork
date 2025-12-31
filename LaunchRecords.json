@@ -228,6 +228,12 @@
             "event": "Researched Ion Engines",
             "who": "Roshan Aerospace and Space Agency",
             "year": "2009"
+        },
+        {
+            "LaunchNumber": "39",
+            "event": "Landed Rover on the Moon",
+            "who": "Roshan Aerospace and Space Agency",
+            "year": "2010"
         }
     ]
 }
