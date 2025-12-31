@@ -170,6 +170,12 @@
         },
         {
             "LaunchNumber": "29",
+            "event": "Nuclide Technologies has launched orbital-2",
+            "who": "Nuclide Technologies",
+            "year": "2008"
+        },
+        {
+            "LaunchNumber": "30",
             "event": "First Orbit for RASA",
             "who": "Roshan Aerospace and Space Agency",
             "year": "2007"
