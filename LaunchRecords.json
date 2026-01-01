@@ -222,6 +222,12 @@
             "event": "1st module of an orbital station",
             "who": "Untitled Aerospace Agency",
             "year": "2009"
+        },
+        {
+            "LaunchNumber": "38",
+            "event": "Lunasats have been launched! They replace the old laggy and unreliable lunar communications.",
+            "who": "Redstar Aerospace",
+            "year": "2009"
         }
     ]
 }
