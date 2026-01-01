@@ -95,6 +95,14 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Normal Comms"
+        },
+        {
+            "name": "Osolan Space Agency",
+            "owner": "Kero",
+            "type": "Government",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Normal Comms"
         }
     ]
 }
