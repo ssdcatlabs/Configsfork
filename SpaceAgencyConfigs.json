@@ -86,6 +86,14 @@
             "type": "Private",
             "prestige": "0",
             "status": "Active",
+            "comms": "Normal Comms"},
+        },
+        {
+            "name": "Valruzian Aeronautics and Space Agency (VASA)",
+            "owner": "serap49",
+            "type": "Goverment",
+            "prestige": "0",
+            "status": "Inactive due to serap49 getting kicked out",
             "comms": "Normal Comms"
         },
         {
