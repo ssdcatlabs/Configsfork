@@ -229,6 +229,12 @@
             "event": "Ions researched for redstar aerospace. Moskis station deorbited from this launch. It was a lambda Omega.",
             "who": "Redstar Aerospace",
             "year": "2009"
+        },
+        {
+            "LaunchNumber": "39",
+            "event": "First uncrewed Lunar Landing",
+            "who": "Nuclide Technologies",
+            "year": "2009"
         }
     ]
 }
