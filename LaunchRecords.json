@@ -238,21 +238,33 @@
         },
         {
             "LaunchNumber": "40",
-            "event": "Ions researched for redstar aerospace. Moskis station deorbited from this launch. It was a lambda Omega.",
+            "event": "Ions researched for Redstar aerospace. Moskis station deorbited from this launch. It was a lambda Omega.",
             "who": "Redstar Aerospace",
             "year": "2010"
         },
         {
             "LaunchNumber": "41",
+            "event": "Leto 1 Launch",
+            "who": "First launch for New Dawn Engineering and Aerospace",
+            "year": "2010"
+        },
+        {
+            "LaunchNumber": "42",
             "event": "First uncrewed Lunar Landing",
             "who": "Nuclide Technologies",
             "year": "2010"
         },
         {
-            "LaunchNumber": "42",
-            "event": "First Venus flyby",
+            "LaunchNumber": "43",
+            "event": "First Venus flyby for Untitled Aerospace Agency.",
             "who": "Untitled Aerospace Agency",
-            "year": "2010"
+            "year": "2011"
+        },
+        {
+            "LaunchNumber": "44",
+            "event": "First suborbital mission and flight for VASA.",
+            "who": "VASA",
+            "year": "2011"
         }
     ]
 }
