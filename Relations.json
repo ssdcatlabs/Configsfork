@@ -19,6 +19,11 @@
             "name": "Lunar comms support",
             "what": "ssdcat allows TheMacTester to use their lunar comms network.",
             "who": "ssdcat, TheMacTester"
+        },
+        {
+            "name": "Interplanetary comms exchange",
+            "what": "TheMacTester allows ilikespace to use their interplanetary comms in exchange for him being able to dock and add modules to the Gaia-1 station",
+            "who": "TheMacTester, ilikespace"
         }
     ]
 }
