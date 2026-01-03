@@ -1,288 +1,193 @@
 {
     "Launch_Records": [
         {
-            "LaunchNumber": "1",
             "event": "First orbit in the RP; First launch in the RP",
-            "who": "Untitled Aerospace Agency",
-            "year": "2000"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "2",
             "event": "First orbit for the APA",
-            "who": "APA",
-            "year": "2000"
+            "who": "APA"
         },
         {
-            "LaunchNumber": "3",
             "event": "First orbit for Redstar Aerospace",
-            "who": "Redstar Aerospace",
-            "year": "2000"
+            "who": "Redstar Aerospace"
         },
         {
-            "LaunchNumber": "4",
             "event": "First orbit for SCF",
-            "who": "SCF",
-            "year": "2001"
+            "who": "SCF"
         },
         {
-            "LaunchNumber": "5",
             "event": "First suborbital manned flight",
-            "who": "Redstar Aerospace",
-            "year": "2001"
+            "who": "Redstar Aerospace"
         },
         {
-            "LaunchNumber": "6",
             "event": "First suborbital manned flight for UAA",
-            "who": "Untitled Aerospace Agency",
-            "year": "2001"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "7",
             "event": "First suborbital manned flight for BA",
-            "who": "Blue Aerospace",
-            "year": "2001"
+            "who": "Blue Aerospace"
         },
         {
-            "LaunchNumber": "8",
             "event": "First unmanned lunar probe; First lunar flyby (BetaSat)",
-            "who": "APA",
-            "year": "2002"
+            "who": "APA"
         },
         {
-            "LaunchNumber": "9",
             "event": "First manned orbit",
-            "who": "Untitled Aerospace",
-            "year": "2002"
+            "who": "Untitled Aerospace"
         },
         {
-            "LaunchNumber": "10",
             "event": "First crewed orbit; First ion research mission (Unlocks ion engines)",
-            "who": "Blue Aerospace",
-            "year": "2002"
+            "who": "Blue Aerospace"
         },
         {
-            "LaunchNumber": "11",
             "event": "First interplanetary mission; First interplanetary mission to Venus",
-            "who": "SCF",
-            "year": "2003"
+            "who": "SCF"
         },
         {
-            "LaunchNumber": "12",
             "event": "First suborbital manned flight",
-            "who": "SCF",
-            "year": "2003"
+            "who": "SCF"
         },
         {
-            "LaunchNumber": "13",
             "event": "Crewed orbital mission (Poronim-3)",
-            "who": "Untitled Aerospace Agency",
-            "year": "2003"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "14",
             "event": "Unmanned lunar impactor (Poronim-4)",
-            "who": "Untitled Aerospace Agency",
-            "year": "2003"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "15",
             "event": "Lunar communications established",
-            "who": "Redstar Aerospace",
-            "year": "2004"
+            "who": "Redstar Aerospace"
         },
         {
-            "LaunchNumber": "16",
             "event": "Suborbital research flight (Little Joe 01)",
-            "who": "B.A.D.A.S.S.",
-            "year": "2004"
+            "who": "B.A.D.A.S.S."
         },
         {
-            "LaunchNumber": "17",
             "event": "First docking",
-            "who": "Blue Aerospace",
-            "year": "2004"
+            "who": "Blue Aerospace"
         },
         {
-            "LaunchNumber": "18",
             "event": "First flyby and orbit of a captured asteroid",
-            "who": "SCF",
-            "year": "2004"
+            "who": "SCF"
         },
         {
-            "LaunchNumber": "19",
             "event": "First probe return to Earth; First orbit for B.A.D.A.S.S.",
-            "who": "B.A.D.A.S.S.",
-            "year": "2005"
+            "who": "B.A.D.A.S.S."
         },
         {
-            "LaunchNumber": "20",
             "event": "First reusable flight",
-            "who": "Redstar Aerospace",
-            "year": "2005"
+            "who": "Redstar Aerospace"
         },
         {
-            "LaunchNumber": "21",
             "event": "Lunar comms established",
-            "who": "Untitled Aerospace Agency",
-            "year": "2005"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "22",
             "event": "Crewed orbital mission (Atomic-1)",
-            "who": "Nuclide Technologies",
-            "year": "2005"
+            "who": "Nuclide Technologies"
         },
         {
-            "LaunchNumber": "23",
             "event": "First Interplanetary Comms Deployed",
-            "who": "B.A.D.A.s.s",
-            "year": "2006"
+            "who": "B.A.D.A.s.s"
         },
         {
-            "LaunchNumber": "24",
             "cachebreakplease": true,
             "event": "Prometheus 1",
-            "who": "B.A.D.A.S.S",
-            "year": "2006"
+            "who": "B.A.D.A.S.S"
         },
         {
-            "LaunchNumber": "25",
             "event": "First suborbital reusable flight",
-            "who": "Redstar Aerospace",
-            "year": "2006"
+            "who": "Redstar Aerospace"
         },
         {
-            "LaunchNumber": "26",
             "event": "Ariel I | Deployment of a global Earth-observation satellite into a 1000 km orbit",
-            "who": "Danish Aerospace Agency",
-            "year": "2006"
+            "who": "Danish Aerospace Agency"
         },
         {
-            "LaunchNumber": "27",
             "event": "Lunar comms established",
-            "who": "Nuclide Technologies",
-            "year": "2007"
+            "who": "Nuclide Technologies"
         },
         {
-            "LaunchNumber": "28",
             "event": "PCM-2 | The HEO labatory (crew will go into the labatory and study the enviornment for 6 months)",
-            "who": "B.A.D.A.S.S.",
-            "year": "2007"
+            "who": "B.A.D.A.S.S."
         },
         {
-            "LaunchNumber": "29",
             "event": "Ariel II | Deployment of a earth satellite into a 250km orbit + First suborbital manned flight for DAA",
-            "who": "Danish Aerospace Agency",
-            "year": "2007"
+            "who": "Danish Aerospace Agency"
         },
         {
-            "LaunchNumber": "30",
             "event": "Uncrewed lunar flyby",
-            "who": "Nuclide Technologies",
-            "year": "2007" 
+            "who": "Nuclide Technologies"
         },
         {
-            "LaunchNumber": "31",
             "event": "First crewed Moon Flyby",
-            "who": "B.A.D.A.S.S",
-            "year": "2008"
-
+            "who": "B.A.D.A.S.S"
         },
         {
-            "LaunchNumber": "32",
             "event": "Orbital station testing",
-            "who": "Untitled Aerospace Agency",
-            "year": "2008"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "33",
             "event": "First Lunar Orbital Labatory, First Lunar Orbit",
-            "who": "B.A.D.A.S.S",
-            "year": "2008"
+            "who": "B.A.D.A.S.S"
         },
         {
-            "LaunchNumber": "34",
             "event": "uncrewed Earth/Moon orbiter Orbital-2 launched",
-            "who": "Nuclide Technologies",
-            "year": "2008"
+            "who": "Nuclide Technologies"
         },
         {
-            "LaunchNumber": "35",
             "event": "First Orbit for RASA",
-            "who": "Roshan Aerospace and Space Agency",
-            "year": "2009"
+            "who": "Roshan Aerospace and Space Agency"
         },
         {
-            "LaunchNumber": "36",
             "event": "First Crewed Lunar Landing!",
-            "who": "B.A.D.A.S.S",
-            "year": "2009"
+            "who": "B.A.D.A.S.S"
         },
         {
-            "LaunchNumber": "37",
             "event": "1st module of an orbital station",
-            "who": "Untitled Aerospace Agency",
-            "year": "2009"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "38",
             "event": "First reusable orbital launch. Lunasats have been launched! They replace the old laggy and unreliable lunar communications. Lambda Omega",
-            "who": "Redstar Aerospace",
-            "year": "2009"
+            "who": "Redstar Aerospace"
         },
         {
-            "LaunchNumber": "39",
             "event": "Second module of the Gaia-1 station",
-            "who": "Untitled Aerospace Agency",
-            "year": "2010"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "40",
             "event": "Ions researched for Redstar aerospace. Moskis station deorbited from this launch. It was a lambda Omega.",
-            "who": "Redstar Aerospace",
-            "year": "2010"
+            "who": "Redstar Aerospace"
         },
         {
-            "LaunchNumber": "41",
             "event": "Leto 1 Launch",
-            "who": "First launch for New Dawn Engineering and Aerospace",
-            "year": "2010"
+            "who": "First launch for New Dawn Engineering and Aerospace"
         },
         {
-            "LaunchNumber": "42",
             "event": "First uncrewed Lunar Landing",
-            "who": "Nuclide Technologies",
-            "year": "2010"
+            "who": "Nuclide Technologies"
         },
         {
-            "LaunchNumber": "43",
             "event": "First Venus flyby for Untitled Aerospace Agency.",
-            "who": "Untitled Aerospace Agency",
-            "year": "2011"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "44",
             "event": "First suborbital mission and flight for VASA.",
-            "who": "VASA",
-            "year": "2011"
+            "who": "VASA"
         },
         {
-            "LaunchNumber": "45",
             "event": "Ionic Reaserch, First Microasteroid Observer.",
-            "who": "B.A.D.A.S.S.",
-            "year": "2011"
+            "who": "B.A.D.A.S.S."
         },
         {
-            "LaunchNumber": "46",
             "event": "Venus orbiter, first Venus lander",
-            "who": "Untitled Aerospace Agency",
-            "year": "2011"
+            "who": "Untitled Aerospace Agency"
         },
         {
-            "LaunchNumber": "47",
             "event": "First O-space orbital mission",
-            "who": "O-space",
-            "year": "2011"
+            "who": "O-space"
         }
     ]
 }
