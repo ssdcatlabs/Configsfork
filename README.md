@@ -1,7 +1,10 @@
 # SFS 1.6 Roleplay Configs
 The configs of the SFS 1.6 roleplay.
 
-Forum thread: [1.6 roleplay](jmnet.one/sfs/forum/index.php?threads/1-6-roleplay.16954/)
+# Links
+
+Forum thread: [1.6 roleplay](jmnet.one/sfs/forum/index.php?threads/1-6-roleplay.16954/)  
+Discord Server [1.6 Roleplay Discord Server](https://discord.gg/ZnzxsBcbhJ)
 
 # Credits
 * Roshan (For making the base to be building ontop of)
