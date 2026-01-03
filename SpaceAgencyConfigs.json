@@ -119,6 +119,14 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Normal Comms"
+        },
+        {   
+            "name": "Canary Industries",
+            "owner": "Geo Boi",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Normal Comms"
         }
     ]
 }
