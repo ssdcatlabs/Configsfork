@@ -186,7 +186,7 @@
             "who": "B.A.D.A.S.S."
         },
         {
-            "event": "Venus orbiter, first Venus lander",
+            "event": "Venus orbiter",
             "who": "Untitled Aerospace Agency"
         },
         {
@@ -196,6 +196,10 @@
          {
             "event": "Leto 2B Launch and Service Module Test (result: fail)",
             "who": "New Dawn Engineering and Aerospace"
+        },
+         {  
+            "event": "Ariel II launch and first manned suborbital mission",
+            "who": "Danish Aerospace Agency"
         }
     ]
 }
