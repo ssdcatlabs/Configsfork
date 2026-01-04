@@ -2,7 +2,7 @@
 
 This is to keep track of major achievements so that you know what to do next.
 
-**Missions completed:**
+Missions completed:
 
 ## Moon:
 ### Uncrewed:
