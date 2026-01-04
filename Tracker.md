@@ -34,3 +34,13 @@ Missions completed:
 - Uncrewed Impactor
 ### Modern Era
 - Uncrewed Habitat (Awaiting crew)
+
+## Venus:
+### Uncrewed:
+- Uncrewed Flyby
+- Uncrewed Orbit
+- Uncrewed Landing
+
+## Mars:
+### Uncrewed:
+- None
