@@ -1,7 +1,14 @@
-# List of missions:
-Note: This is unfinished
+# Tracker
+
+This is to keep track of major achievements so that you know what to do next.
 
 ## Moon:
+- Uncrewed Flyby
+- Uncrewed Orbit
+- Uncrewed Landing
+- Crewed Flyby
+- Crewed Orbit
+- Crewed Landing
 
 ### Crewed:
 - Crewed Flyby: L31 | B.A.D.A.S.S | Year 2007
