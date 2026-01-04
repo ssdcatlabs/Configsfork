@@ -15,6 +15,9 @@ Missions completed:
 ### Misc:
 - Uncrewed MEO
 - Uncrewed HEO
+- Reusable Flight
+- Reusable Suborbital
+- Reusable Orbital
 ### Modern Era
 - Space Stations
 
